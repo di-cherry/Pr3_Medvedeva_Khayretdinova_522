@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фибоначчи", "Фибоначчи.csproj", "{4F10DF4C-2E73-4E46-9603-15F7D0E2E5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Галактики", "..\Галактики\Галактики.csproj", "{BC1AFB2F-3567-44C6-8F28-E6E3A2C9132B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Буквы", "..\Буквы\Буквы.csproj", "{0B4ECD1F-2DF7-450D-8D83-9D98FFF68D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F10DF4C-2E73-4E46-9603-15F7D0E2E5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F10DF4C-2E73-4E46-9603-15F7D0E2E5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F10DF4C-2E73-4E46-9603-15F7D0E2E5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F10DF4C-2E73-4E46-9603-15F7D0E2E5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1AFB2F-3567-44C6-8F28-E6E3A2C9132B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1AFB2F-3567-44C6-8F28-E6E3A2C9132B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1AFB2F-3567-44C6-8F28-E6E3A2C9132B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1AFB2F-3567-44C6-8F28-E6E3A2C9132B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4ECD1F-2DF7-450D-8D83-9D98FFF68D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4ECD1F-2DF7-450D-8D83-9D98FFF68D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4ECD1F-2DF7-450D-8D83-9D98FFF68D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4ECD1F-2DF7-450D-8D83-9D98FFF68D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B36F0D2-A867-481C-8A0D-573309EDE2DA}
+	EndGlobalSection
+EndGlobal
