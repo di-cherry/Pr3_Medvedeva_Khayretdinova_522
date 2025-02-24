@@ -9,6 +9,6 @@
 <br>Пошаговое выполнение кода
 ## Ссылка на программу
 [Внешний вид](MainWindow.xaml)
-<br>[Программная часть](MainWindow.xaml.cs)
+<br>[Программная часть](https://github.com/di-cherry/Pr3_Medvedeva_Khayretdinova_522/blob/master/9%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82/MainWindow.xaml.cs)
 ## Работа приложения
 ![Уравнение](https://github.com/user-attachments/assets/483bb0fd-2424-4e65-8318-28372188578d)
