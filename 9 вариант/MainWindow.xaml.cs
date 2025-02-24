@@ -100,6 +100,12 @@ namespace pr3._2
 
         private void SolveQuadraticEquation(double a, double b, double c)
         {
+            if (a == 0)
+            {
+                TextBlockResult.Text = "Это линейное уравнение (a не может быть равно 0). Решите его как линейное.";
+                return;
+            }
+            
             double discriminant = b * b - 4 * a * c;
 
             if (discriminant < 0)
