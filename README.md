@@ -10,5 +10,5 @@
 ## Ссылка на программу
 [Внешний вид](MainWindow.xaml)
 <br>[Программная часть](MainWindow.xaml.cs)
-## Работв приложения
+## Работа приложения
 ![Уравнение](https://github.com/user-attachments/assets/483bb0fd-2424-4e65-8318-28372188578d)
